@@ -6,7 +6,7 @@ This repository is hosting a few Jupyter Notebooks that consume Jira data.
 
 Here is the article linked to this repository: [Jira: one easy solution to generate custom reporting](https://dev.to/bobman38/jira-one-easy-solution-to-generate-custom-reporting-102j)
 
-![In action !](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gy0ikeocltpsv604067a.gif)
+![In action !](example.gif)
 
 ## Who ?
 
